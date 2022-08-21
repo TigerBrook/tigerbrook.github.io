@@ -6,9 +6,9 @@ I am on a bridge of Science and Art.
 
 ### CONTACT
 
-tigerbrookyu@gmail.com
+[tigerbrookyu@gmail.com](tigerbrookyu@gmail.com)
 
-eyu@gradcenter.cuny.edu
+[eyu@gradcenter.cuny.edu](eyu@gradcenter.cuny.edu)
 
 ### EDUCATION
 
