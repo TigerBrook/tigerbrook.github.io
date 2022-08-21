@@ -1,6 +1,6 @@
 ## Welcome to the Universe of Enxi 'TigerBrook' Yu
 
-You can use the [editor on GitHub](https://github.com/TigerBrook/tigerbrook.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+My name is Enxi Yu （于恩熙）, aka 'TigerBrook' （虎溪三笑）.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
