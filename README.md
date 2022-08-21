@@ -15,13 +15,13 @@ I am on a bridge of Science and Art.
 ```markdown
 
 Doctor of Philosophy in Physics 
-Graduate Center, The City University of New York                                                08/2014 – 06/2020
+Graduate Center, The City University of New York           08/2014 – 06/2020
 
 Master of Science in Physics
-Hunter College, The City University of New York                                                  01/2017 - 05/2018
+Hunter College, The City University of New York            01/2017 - 05/2018
 
 Bachelor of Science in Physics
-Tianjin University, China(PRC)                                                                               09/2010 - 06/2014
+Tianjin University, China(PRC)                             09/2010 - 06/2014
 Minor in Chinese Languages and Literature
 
 ```
