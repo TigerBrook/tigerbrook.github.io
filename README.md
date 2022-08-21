@@ -1,7 +1,6 @@
 ## Welcome to the Universe of Enxi 'TigerBrook' Yu
 
 My name is Enxi Yu, aka 'TigerBrook'.
-于恩熙，自号‘虎溪三啸’。
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
