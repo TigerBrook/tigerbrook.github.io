@@ -1,32 +1,29 @@
 ## Welcome to the Universe of Enxi 'TigerBrook' Yu
 
-My name is Enxi Yu, aka 'TigerBrook'.
+My name is Enxi Yu, aka 'TigerBrook'. PhD, BS and BA.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+I am on a bridge of Science and Art.
 
-### Markdown标注
+### CONTACT
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+tigerbrookyu@gmail.com
+eyu@gradcenter.cuny.edu
+
+### EDUCATION
 
 ```markdown
-Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
+Doctor of Philosophy in Physics 
+Graduate Center, The City University of New York                                                08/2014 – 06/2020
 
-- Bulleted
-- List
+Master of Science in Physics
+Hunter College, The City University of New York                                                  01/2017 - 05/2018
 
-1. Numbered
-2. List
+Bachelor of Science in Physics
+Tianjin University, China(PRC)                                                                               09/2010 - 06/2014
+Minor in Chinese Languages and Literature
 
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
 ```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
 
 ### Jekyll Themes
 
